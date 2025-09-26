@@ -1,0 +1,12 @@
+G:\edu\gearshare-apiv2\src\Domain\bin\Debug\net8.0\GearShare.Domain.deps.json
+G:\edu\gearshare-apiv2\src\Domain\bin\Debug\net8.0\GearShare.Domain.dll
+G:\edu\gearshare-apiv2\src\Domain\bin\Debug\net8.0\GearShare.Domain.pdb
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.AssemblyInfoInputs.cache
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.AssemblyInfo.cs
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.csproj.CoreCompileInputs.cache
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.sourcelink.json
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.dll
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\refint\GearShare.Domain.dll
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\GearShare.Domain.pdb
+G:\edu\gearshare-apiv2\src\Domain\obj\Debug\net8.0\ref\GearShare.Domain.dll
